@@ -1,0 +1,11 @@
+# Python junk
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Executables
+*.exe
+dist/
+build/
+*.spec
